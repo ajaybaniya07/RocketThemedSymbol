@@ -35,3 +35,5 @@ Solution: Collaborate closely with stakeholders to incorporate their vision and 
 
 Conclusion:
 Designing a monochromatic space and rocket-themed symbol using only black is a creative endeavor that requires careful consideration of design elements and challenges. By embracing simplicity, emphasizing iconic shapes, and using shading techniques effectively, a striking and minimalist symbol can be crafted. This symbol will serve as a powerful representation of the spirit of space exploration, embodying the elegance and wonder of the cosmos.
+
+![Behance_01_Presentation_2](https://github.com/ajaybaniya07/RocketThemedSymbol/assets/97498135/a6992f33-efc5-4cf8-97b4-e8bd05111f07)
